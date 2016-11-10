@@ -1,0 +1,146 @@
+
+tutorial_text.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+text01
+  rotate: false
+  xy: 1, 667
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text010
+  rotate: false
+  xy: 1, 445
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text011
+  rotate: false
+  xy: 1, 223
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text012
+  rotate: false
+  xy: 1, 223
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text013
+  rotate: false
+  xy: 1, 1
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+
+tutorial_text2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+text014
+  rotate: false
+  xy: 1, 667
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text015
+  rotate: false
+  xy: 1, 445
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text016
+  rotate: false
+  xy: 1, 223
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text017
+  rotate: false
+  xy: 1, 1
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+
+tutorial_text3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+text018
+  rotate: false
+  xy: 1, 667
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text02
+  rotate: false
+  xy: 1, 445
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text03
+  rotate: false
+  xy: 1, 445
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text04
+  rotate: false
+  xy: 1, 223
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text05
+  rotate: false
+  xy: 1, 1
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+
+tutorial_text4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+text06
+  rotate: false
+  xy: 1, 667
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text07
+  rotate: false
+  xy: 1, 445
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text08
+  rotate: false
+  xy: 1, 223
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1
+text09
+  rotate: false
+  xy: 1, 1
+  size: 840, 220
+  orig: 840, 220
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,115 @@
+
+new_coin_meter.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+16coin-0
+  rotate: false
+  xy: 1, 274
+  size: 195, 749
+  orig: 195, 749
+  offset: 0, 0
+  index: -1
+MenuButton
+  rotate: false
+  xy: 198, 783
+  size: 600, 240
+  orig: 600, 240
+  offset: 0, 0
+  index: -1
+MenuPressed
+  rotate: false
+  xy: 198, 541
+  size: 600, 240
+  orig: 600, 240
+  offset: 0, 0
+  index: -1
+Roots-Final-Logo-(Light)
+  rotate: false
+  xy: 198, 269
+  size: 550, 270
+  orig: 550, 270
+  offset: 0, 0
+  index: -1
+8coin-0
+  rotate: false
+  xy: 800, 634
+  size: 195, 389
+  orig: 195, 389
+  offset: 0, 0
+  index: -1
+4coin-0
+  rotate: false
+  xy: 1, 63
+  size: 195, 209
+  orig: 195, 209
+  offset: 0, 0
+  index: -1
+Goal-(Fixed)
+  rotate: false
+  xy: 198, 27
+  size: 360, 240
+  orig: 360, 240
+  offset: 0, 0
+  index: -1
+Moves
+  rotate: false
+  xy: 560, 27
+  size: 360, 240
+  orig: 360, 240
+  offset: 0, 0
+  index: -1
+Numbers-(Filled)
+  rotate: false
+  xy: 750, 299
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 1, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+
+new_coin_meter2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Timer-(Small)
+  rotate: false
+  xy: 1, 3
+  size: 300, 240
+  orig: 300, 240
+  offset: 0, 0
+  index: -1
+Numbers-(Fixed)
+  rotate: false
+  xy: 303, 3
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Score (Fixed)
+  rotate: false
+  xy: 545, 3
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 787, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+soundon
+  rotate: false
+  xy: 787, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
